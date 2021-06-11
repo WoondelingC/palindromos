@@ -14,4 +14,4 @@ function palindrome(str) {
 
     palindrome("eye");
 
-    document.querySelector(#).innertHTML = reversa
+   
