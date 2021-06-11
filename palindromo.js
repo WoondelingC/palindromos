@@ -10,8 +10,8 @@ function palindrome(str) {
     
     return false;
     }
+    console.log(palindrome);
     
-
     palindrome("eye");
 
    
